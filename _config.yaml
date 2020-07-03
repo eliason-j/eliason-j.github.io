@@ -1,5 +1,4 @@
 name: Jacob Eliason
-theme: jekyll-theme-minimal
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 exclude:
