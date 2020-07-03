@@ -1,4 +1,0 @@
-AuthType Basic  
-AuthName "Resume"  
-AuthUserFile resume/.htaccess
-require valid-user
