@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Downloads/tex.tex
+    template: /resume/86e50ff964a83855fcac5d8dbdd1930528b9eab9/resume.tex
 geometry: margin=1in
 
 title: "CV"
