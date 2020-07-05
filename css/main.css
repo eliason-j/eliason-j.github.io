@@ -3,10 +3,12 @@ body {
     width: 70%;
     max-width: 1400px;
 }
+.container {
+    height: 100%;
+}
 iframe {
     width: 100%;
     height: 80%;
-    position: absolute;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
