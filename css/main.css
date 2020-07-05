@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     max-width: 1400px;
+    height: 100%;
 }
 .container {
     height: 100%;
