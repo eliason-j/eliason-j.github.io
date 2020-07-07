@@ -7,6 +7,13 @@ iframe {
     width: 100%;
     height: 900px;
 }
+
+img {
+    margin: 60px auto;
+    width: 70%;
+    max-width: 1400px;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
