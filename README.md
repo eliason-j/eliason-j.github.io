@@ -1,7 +1,7 @@
 # eliason-j.github.io
 
 ## Attribution
-This website was created using [Hugo](https://gohugo.io). 
+This website was created using [Hugo](https://gohugo.io) and [blogdown](https://cran.r-project.org/package=blogdown). 
 Special thanks to Stephen Siegerts for his `hugo-theme-basic` [template](https://github.com/siegerts/hugo-theme-basic), which I used. 
 I made extensive use of Yihui Xie's [Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) in implementing the theme and in launching the site using Github Pages.
 Final acknowledgement to Zach for debugging help and general web dev consulting. 
