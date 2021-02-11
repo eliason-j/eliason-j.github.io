@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Jacob Eliason</title>
-    <link>https://www.jacobeliason.com/tags/development/</link>
+    <link>/tags/development/</link>
     <description>Recent content in Development on Jacob Eliason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>last updated 02-2021</copyright>
     <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate>
     
-	<atom:link href="https://www.jacobeliason.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>https://www.jacobeliason.com/project/hugo/</link>
+      <link>/project/hugo/</link>
       <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
       
-      <guid>https://www.jacobeliason.com/project/hugo/</guid>
+      <guid>/project/hugo/</guid>
       <description></description>
     </item>
     

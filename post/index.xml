@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jacob Eliason</title>
-    <link>https://www.jacobeliason.com/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Jacob Eliason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>last updated 02-2021</copyright>
     <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.jacobeliason.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why am I doing this?</title>
-      <link>https://www.jacobeliason.com/post/why-am-i-doing-this/</link>
+      <link>/post/why-am-i-doing-this/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jacobeliason.com/post/why-am-i-doing-this/</guid>
+      <guid>/post/why-am-i-doing-this/</guid>
       <description></description>
     </item>
     
