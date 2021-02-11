@@ -1,6 +1,0 @@
-name: Jacob Eliason
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-exclude:
-  - .Rproj
-  - .Rproj.user/
