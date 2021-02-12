@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacob Eliason</title>
-    <link>/</link>
+    <link>https://www.jacobeliason.com/</link>
     <description>Recent content on Jacob Eliason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jacobeliason.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello!</title>
-      <link>/about/</link>
+      <link>https://www.jacobeliason.com/about/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://www.jacobeliason.com/about/</guid>
       <description>I am a data analyst with experience in data visualization, statistical modeling, and survey research. I recently graduated with a B.S. in statistical science from Brigham Young University with minors in political science and mathematics. While in school, I worked on sports analytics and international development projects as a research assistant in the statistics and political science departments respectively. I enjoy running, cycling, and film photography.</description>
     </item>
     
     <item>
       <title>Why am I doing this?</title>
-      <link>/post/why-am-i-doing-this/</link>
+      <link>https://www.jacobeliason.com/post/why-am-i-doing-this/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/why-am-i-doing-this/</guid>
+      <guid>https://www.jacobeliason.com/post/why-am-i-doing-this/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris placerat congue tortor, non ullamcorper nunc semper nec. Quisque mollis in metus nec feugiat. Duis lacinia aliquam nisi, aliquam convallis elit feugiat nec. Fusce ullamcorper lectus non egestas blandit. Maecenas lobortis iaculis ante, vel tristique dolor euismod suscipit. Sed laoreet maximus arcu ut lacinia. Etiam ut euismod urna, id faucibus erat. Suspendisse fringilla mattis placerat. Nulla lobortis rutrum est, a hendrerit metus tincidunt non.</description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>/project/hugo/</link>
+      <link>https://www.jacobeliason.com/project/hugo/</link>
       <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
       
-      <guid>/project/hugo/</guid>
+      <guid>https://www.jacobeliason.com/project/hugo/</guid>
       <description></description>
     </item>
     
