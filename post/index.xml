@@ -6,18 +6,21 @@
     <description>Recent content in Posts on Jacob Eliason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.jacobeliason.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Why am I doing this?</title>
-      <link>https://www.jacobeliason.com/post/why-am-i-doing-this/</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Why I made a website</title>
+      <link>https://www.jacobeliason.com/post/what-am-i-doing-here/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jacobeliason.com/post/why-am-i-doing-this/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris placerat congue tortor, non ullamcorper nunc semper nec. Quisque mollis in metus nec feugiat. Duis lacinia aliquam nisi, aliquam convallis elit feugiat nec. Fusce ullamcorper lectus non egestas blandit. Maecenas lobortis iaculis ante, vel tristique dolor euismod suscipit. Sed laoreet maximus arcu ut lacinia. Etiam ut euismod urna, id faucibus erat. Suspendisse fringilla mattis placerat. Nulla lobortis rutrum est, a hendrerit metus tincidunt non.</description>
+      <guid>https://www.jacobeliason.com/post/what-am-i-doing-here/</guid>
+      <description>\
+Raison d&amp;rsquo;être Creating this website has been on my list of things to do for an embarrassingly long time. I worked on it in fits&amp;ndash;first in July 2020 and again recently when I started over using Hugo and bookdown in order to more easily accommodate .Rmd files. Now that it&amp;rsquo;s finally live, I thought I&amp;rsquo;d say a couple things about what I hope to accomplish here.
+\
+Having a website that showcases personal data projects seems useful to my professional development.</description>
     </item>
     
   </channel>
