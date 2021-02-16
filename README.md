@@ -17,3 +17,10 @@ I'm not sure if this usage is "correct" per se but it seems to be functional, if
 3. Build the site using `blogdown::build_site()`.
 4. Stage, commit, push changes. This should all happen in the project opened in step 1, known to RStudio as `public` and which corresponds to the `eliason-j.github.io` Github repository.
 5. The website should reflect changes in 30 seconds or so. 
+
+## Changes to style
+
+(Fill in verbose explanation later)
+
+1. Add new css file to static-css
+2. Add css file name to config
